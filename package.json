@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "poker.js",
   "type": "module",
+  "bin":{"poker_cli":"poker.js"},
   "scripts": {
     "start": "node poker.js"
   },
